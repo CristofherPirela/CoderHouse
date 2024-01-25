@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+*{
+    margin:0;
+    box: sizing 0;
+    padding:0;
+}
+
+body{
+    background-color: azure;
+}
+ 
+main{
+   
+    text-align: center;
+}
+
+.imagen{
+
+width:100%;
+}
+h1{
+    font-family: 'Bebas Neue', sans-serif;
+    position: relative;
+    font-size: 30px;
+    left: 20px;
+    top: 20px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+h2{
+    font-size: 40px;
+    padding: 170px;
+}
+
+article{
+
+    font-size:20px ;
+}
+
+.ImagenDos{
+
+        padding: 50px;
+    
+}
+
+.Mapa{
+    position: relative;
+    padding:100px;
+}
+
+
+ul{
+    list-style:none;
+}
+
+a{
+    color: ;
+    text-decoration:none;
+}
+
+nav{
+    background-color:#211c33;
+    position: fixed;
+    width: 100%;
+    height:70px;
+    z-index: 1;
+}
+
+.inicio{
+    position: relative;
+    left:300px;
+    font-size:22px;
+    color: aliceblue;
+    bottom:14px;
+}
+
+.entradas{
+    position: relative;
+    left:420px;
+    font-size:22px;
+    bottom:40px;
+    color: aliceblue;
+}
+
+.soporte{
+    position: relative;
+    left:560px;
+    font-size:22px;
+    bottom: 65px;
+    color: aliceblue;
+}
+
+.contacto{
+    position: relative;
+    left:688px;
+    font-size:22px;
+    bottom: 90px;
+    color: aliceblue;
+}
+
+.conciertos{
+    position: relative;
+    left:825px;
+    font-size:22px;
+    bottom: 115px;
+    color: aliceblue;
+}
+
+footer{
+
+    background-color:#343838;
+    height: 350px;px;
+}
+
+.SemiFooter{
+
+    position: relative;
+    text-align: justify;
+    padding:30px;
+}
+
+.iconos{
+    position: relative;
+    font-size: 40px;
+}
+
+.instagram{
+    position: relative;
+    width: 15px;
+    font-size:15px;
+}
+
+.twitter{
+    font-size: 15px;
+}
+
+.tiktok{
+    font-size: 15px;
+}
+
+.threads{
+    font-size: 15px;
+}
+
+.facebook{
+
+    font-size: 15px;
+
+}
+
+.spotify{
+    font-size: 15px;
+}
+iframe{
+    position: relative;
+    bottom:50px;
+}
+
+/*Entradas*/
+
+
+nav{
+    background-color:#211c33;
+    position: fixed;
+    width: 100%;
+    height:70px;
+    z-index: 1;
+}
+
+ul{
+    list-style:none;
+}
+
+.EntradasImagen{
+
+    width: 100%;
+}
+
+.VentaGeneral{
+
+    width: 45%;
+    left:25% ;
+    position: relative;
+    top: 70px;
+}
+
+.ClientesEntel{
+    position: relative;
+    width:45%;
+    top:430px;
+    right:385px;
+}
+
+.ClientesScotia{
+    position: relative;
+    width:45%;
+    top:500px ;
+    left: 473px;
+    bottom:50px;
+}
+
+
+/*Conciertos*/
+
+nav{
+    background-color:#211c33;
+    position: fixed;
+    width: 100%;
+    height:70px;
+    z-index: 1;
+}
+
+ul{
+    list-style:none;
+}
+
+.JairoVera{
+
+    position: relative;
+   right: 43px;
+    padding:100px;
+}
+
+
+.spotify{
+
+    position: relative;
+    bottom:;
+}
+
+.video{
+    position: relative;
+    padding:200px ;
+    size: 50%;
+}
+
+.introFooter{
+position: relative;
+    width:70% ;
+    left:15% ;
+}
+
+/*Soporte*/
+
+.lista{
+
+    text-align: justify;
+    
+}
+
+/*Contacto*/
+
+.operador{
+    position: relative;
+    width:25%;
+    left:36% ;
+    top:50px;
+}
+
+.contactocontacto{
+    bottom:50px;
+    font-size:18px;
+}
+
+.Volver{
+    background-color: #343838;
+    color: aliceblue;
+    border-radius: 9px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    display: inline-block;
+}
